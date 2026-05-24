@@ -61,7 +61,7 @@ line of Y on X was also plotted successfully.
 plt.legend(['Regression Line','Data points'])
 plt.show()
 ~~~
-# Result
+# Output :
 <img width="819" height="513" alt="Screenshot 2026-05-24 183352" src="https://github.com/user-attachments/assets/e2b27c39-6321-44d9-87cf-3e6e1a871735" />
 
-# Output 
+# Result :
